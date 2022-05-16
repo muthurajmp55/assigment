@@ -3,7 +3,7 @@ import app.Exchane as Exchange
 from app.Share import Stock
 from app.Trade import Trade
 from random import choice
-from data.sample_data import SAMPLE_DATA
+from data.sample_data import data
 
 
 class ApplicationTestCase(unittest.TestCase):
